@@ -7,6 +7,13 @@
     <title>Document</title>
 </head>
 <body>
-    <div>Hello Uncle!</div>
+<<<<<<< HEAD
+    <div>ako ako</div>
 </body>
 </html>
+=======
+    <div>ako ako</div>
+</body>
+</html>
+
+>>>>>>> 699baf715e68f0703e96d57e7aaa1dfe4bef3c8f
